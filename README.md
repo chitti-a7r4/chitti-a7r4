@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **ukkueditz.uk@gmail.com**
+- 📫 You can reach me at **ukkueditz.uk@gmail.com**
 
 - ⚡ Fun fact **I am noob**
 
