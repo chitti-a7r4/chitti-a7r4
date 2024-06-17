@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiva Sai Naluvala</h1>
-<h3 align="center">I wanted to build an app when I was a child , so here I am</h3>
+<h3 align="center">Everything I learned I learned from the Internet.</h3>
 
 - 🔭 I’m currently working on **an App Widget**
 
