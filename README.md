@@ -7,7 +7,7 @@
 
 - 📫 You can reach me at **ukkueditz.uk@gmail.com**
 
-- ⚡ Fun fact **I am noob**
+- ⚡ Fun fact: **I am noob**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
