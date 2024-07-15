@@ -7,7 +7,7 @@
 
 - 📫 You can reach me at **shivasainaluvala@gmail.com**
 
-- ⚡ Fun fact: **I am noob**
+- ⚡Fun fact: **I'm electronics student**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
