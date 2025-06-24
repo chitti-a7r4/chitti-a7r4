@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shiva Sai Naluvala</h1>
 <h3 align="center">Everything I learned I learned from the Internet.</h3>
 
-- 🔭 I’m currently working on **a self attendance tracker**
+- 🔭 I’m currently working on **job platform app**
 
 - 🌱 I’m currently learning **Flutter**
 
