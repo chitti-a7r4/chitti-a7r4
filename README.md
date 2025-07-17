@@ -1,3 +1,4 @@
+
 # Hi there! 👋 I'm Shiva Sai Naluvala
 
 <div align="center">
@@ -44,15 +45,7 @@
 ---
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chitti-a7r4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chitti-a7r4&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitti-a7r4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chitti-a7r4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> <a href="https://github-readme-streak-stats.herokuapp.com/?user=chitti-a7r4&theme=tokyonight&hide_border=true"> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chitti-a7r4&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </a> </div> <div align="center"> <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitti-a7r4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /> </div>
 
 ---
 
@@ -75,11 +68,11 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/chitti-a7r4/Nehu-wifi-auto-login">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chitti-a7r4&repo=job-platform&theme=tokyonight&hide_border=true" alt="Job Platform" />
-  </a>
   <a href="https://github.com/chitti-a7r4/giveit-away">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chitti-a7r4&repo=flutter-projects&theme=tokyonight&hide_border=true" alt="Flutter Projects" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chitti-a7r4&repo=giveit-away&theme=tokyonight&hide_border=true" alt="Flutter Projects" />
+  </a>
+  <a href="https://github.com/chitti-a7r4/Nehu-wifi-auto-login">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chitti-a7r4&repo=Nehu-wifi-auto-login&theme=tokyonight&hide_border=true" alt="Job Platform" />
   </a>
 </div>
 
