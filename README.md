@@ -75,10 +75,10 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/chitti-a7r4/job-platform">
+  <a href="https://github.com/chitti-a7r4/Nehu-wifi-auto-login">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chitti-a7r4&repo=job-platform&theme=tokyonight&hide_border=true" alt="Job Platform" />
   </a>
-  <a href="https://github.com/chitti-a7r4/flutter-projects">
+  <a href="https://github.com/chitti-a7r4/giveit-away">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chitti-a7r4&repo=flutter-projects&theme=tokyonight&hide_border=true" alt="Flutter Projects" />
   </a>
 </div>
