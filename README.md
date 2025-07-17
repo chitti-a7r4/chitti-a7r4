@@ -1,89 +1,121 @@
-<h1 align="center">Hi there 👋, I'm Shiva Sai Naluvala</h1>
-<h3 align="center">A passionate Electronics student building a career in software development, driven by curiosity and the vast resources of the internet.</h3>
-
----
-
-### About Me
-
-- 🔭 I'm currently developing a **job platform application**, focusing on creating intuitive and efficient user experiences.
-- 🌱 I'm actively enhancing my skills in **Flutter** to build cross-platform mobile applications.
-- ⚡ Fun fact: While my academic background is in Electronics, my passion for software development led me to learn everything I know from online resources and hands-on projects.
-
----
-
-### Connect with Me
-
-I'm always open to collaborating on interesting projects or discussing new technologies. Feel free to reach out!
-
-<p align="left">
-  <a href="https://instagram.com/just_chitti" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="mailto:shivasainaluvala@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" width="auto"/></a>
-  </p>
-
----
-
-### My Toolkit: Languages and Tools
-
-Here are some of the technologies and tools I work with:
-
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-</p>
-
----
-
-### My Workspace
+# Hi there! 👋 I'm Shiva Sai Naluvala
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/chitti-a7r4/website/refs/heads/main/pookie.jpg" target="_blank">
-    <img src="https://raw.githubusercontent.com/chitti-a7r4/website/refs/heads/main/pookie.jpg" alt="My Pookie Setup" style="max-width: 100%; height: auto;"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Electronics+Student;Software+Developer;Flutter+Enthusiast;Building+Amazing+Apps" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=chitti-a7r4&label=Profile%20views&color=00D4FF&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/chitti-a7r4?label=Followers&style=flat&color=00D4FF" alt="GitHub Followers" />
+  <a href="https://github.com/chitti-a7r4?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/chitti-a7r4?color=00D4FF&style=flat&labelColor=1C1E22&logo=star"/>
   </a>
-  <p><i>My "Pookie Setup" - where the magic happens!</i></p>
 </div>
 
 ---
 
-### GitHub Stats
+## 🚀 About Me
+
+> **From circuits to code** - An Electronics student who discovered a passion for software development through the endless learning opportunities online.
+
+- 🔭 **Currently building:** A comprehensive job platform application with focus on UX/UI excellence
+- 🌱 **Learning:** Advanced Flutter development and cross-platform mobile architecture
+- 💡 **Philosophy:** Self-taught through curiosity, online resources, and hands-on experimentation
+- 🎯 **Goal:** Bridge the gap between hardware understanding and software innovation
+- ⚡ **Fun fact:** My electronics background gives me a unique perspective on software optimization!
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=chitti-a7r4&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=chitti-a7r4&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true" alt="Shiva Sai Naluvala's GitHub Stats" />
+
+### Languages
+<img src="https://skillicons.dev/icons?i=c,java,python,dart" />
+
+### Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=flutter,css,html" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,linux,mysql,figma,photoshop,vscode" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chitti-a7r4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chitti-a7r4&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitti-a7r4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chitti-a7r4&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chitti-a7r4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/chitti-a7r4/job-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chitti-a7r4&repo=job-platform&theme=tokyonight&hide_border=true" alt="Job Platform" />
   </a>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=chitti-a7r4&theme=great-gatsby&hide_border=true" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chitti-a7r4&theme=great-gatsby&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/chitti-a7r4/flutter-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chitti-a7r4&repo=flutter-projects&theme=tokyonight&hide_border=true" alt="Flutter Projects" />
+  </a>
+</div>
+
+---
+
+## 💻 My Development Environment
+
+<div align="center">
+  <a href="https://raw.githubusercontent.com/chitti-a7r4/website/refs/heads/main/pookie.jpg">
+    <img src="https://raw.githubusercontent.com/chitti-a7r4/website/refs/heads/main/pookie.jpg" alt="My Pookie Setup" style="border-radius: 10px; max-width: 80%; height: auto;" />
   </a>
   <br />
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=chitti-a7r4&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitti-a7r4&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact" height="150" alt="Top Languages" />
-  </a>
+  <i>✨ My "Pookie Setup" - where innovation meets comfort! ✨</i>
 </div>
 
 ---
 
-### Contribution Graph
+## 🤝 Let's Connect!
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chitti-a7r4&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Graph" />
-</div>
-
----
-
-### Let's Connect!
-
-Find me on these platforms:
-
-<div align="center">
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivasainaluvala/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chitti-a7r4)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/just_chitti)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivasainaluvala@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=70&animation=twinkling" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <i>💫 "The best way to predict the future is to create it" - Peter Drucker</i>
 </div>
