@@ -37,4 +37,19 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitti-a7r4&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact" height="150" alt="streak graph" />
   </a>
 </div>
+## 📈 Contribution Graph
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chitti-a7r4&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivasainaluvala/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chitti-a7r4)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@chittil.org)
+  
+</div>
+
 
