@@ -45,7 +45,8 @@
 ---
 
 ## 📊 GitHub Analytics
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chitti-a7r4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> <a href="https://github-readme-streak-stats.herokuapp.com/?user=chitti-a7r4&theme=tokyonight&hide_border=true"> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chitti-a7r4&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </a> </div> <div align="center"> <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitti-a7r4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /> </div>
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chitti-a7r4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /></a> </div> <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitti-a7r4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /> 
+ <a href="https://github-readme-streak-stats.herokuapp.com/?user=chitti-a7r4&theme=tokyonight&hide_border=true"> <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=chitti-a7r4&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </a></div>
 
 ---
 
