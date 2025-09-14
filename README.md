@@ -1,4 +1,3 @@
-
 # Hi there! 👋 I'm Shiva Sai Naluvala
 
 <div align="center">
@@ -17,13 +16,16 @@
 
 ## 🚀 About Me
 
-> **From circuits to code** - An Electronics student who discovered a passion for software development through the endless learning opportunities online.
+> **From circuits to code** - An Electronics student who discovered a passion for software development through endless curiosity and hands-on exploration.
 
-- 🔭 **Currently building:** A comprehensive job platform application with focus on UX/UI excellence
-- 🌱 **Learning:** Advanced Flutter development and cross-platform mobile architecture
-- 💡 **Philosophy:** Self-taught through curiosity, online resources, and hands-on experimentation
-- 🎯 **Goal:** Bridge the gap between hardware understanding and software innovation
-- ⚡ **Fun fact:** My electronics background gives me a unique perspective on software optimization!
+- 💻 **First sparks:** Got my first laptop at 8–9 years old, spent childhood exploring computers and even trying to hack neighbor’s Wi-Fi (internet was super expensive back then 😅).  
+- 🛜 **Adventures:** Roamed town with my **HP Notebook** and **LYF Wind**, searching for open/WPS-enabled networks.  
+- 🎒 **Now:** Blessed to have everything I once wished for, still exploring many tech fields.  
+- 🔭 **Currently building:** A **Mini Baymax project** (AI + robotics) and a **job platform app** with focus on UX/UI.  
+- 🌱 **Learning:** Advanced Flutter development, cross-platform architectures, and system-level understanding from my **ECE background**.  
+- 💡 **Philosophy:** Self-taught through curiosity, online resources, and experimentation.  
+- 🎯 **Goal:** Bridge the gap between **hardware** and **software** innovation.  
+- ⚡ **Fun fact:** My electronics knowledge helps me optimize software in unique ways!  
 
 ---
 
@@ -31,26 +33,32 @@
 
 <div align="center">
 
-### Languages
+### Languages  
 <img src="https://skillicons.dev/icons?i=c,java,python,dart" />
 
-### Frontend & Mobile
+### Frontend & Mobile  
 <img src="https://skillicons.dev/icons?i=flutter,css,html" />
 
-### Tools & Platforms
+### Tools & Platforms  
 <img src="https://skillicons.dev/icons?i=git,github,linux,mysql,figma,photoshop,vscode" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chitti-a7r4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /></a> </div> <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitti-a7r4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /> 
- <a href="https://github-readme-streak-stats.herokuapp.com/?user=chitti-a7r4&theme=tokyonight&hide_border=true"> <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=chitti-a7r4&theme=great-gatsby&hide_border=true" alt="GitHub Streak" /> </a></div>
+## 📊 GitHub Analytics  
+
+<div align="center"> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chitti-a7r4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitti-a7r4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /> 
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=chitti-a7r4&theme=tokyonight&hide_border=true"> 
+    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=chitti-a7r4&theme=great-gatsby&hide_border=true" alt="GitHub Streak" /> 
+  </a>
+</div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Activity  
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chitti-a7r4&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
@@ -58,7 +66,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Achievements  
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chitti-a7r4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
@@ -66,20 +74,20 @@
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects  
 
 <div align="center">
   <a href="https://github.com/chitti-a7r4/giveit-away">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chitti-a7r4&repo=giveit-away&theme=tokyonight&hide_border=true" alt="Flutter Projects" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chitti-a7r4&repo=giveit-away&theme=tokyonight&hide_border=true" alt="GiveIT-Away App" />
   </a>
   <a href="https://github.com/chitti-a7r4/Nehu-wifi-auto-login">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chitti-a7r4&repo=Nehu-wifi-auto-login&theme=tokyonight&hide_border=true" alt="Job Platform" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chitti-a7r4&repo=Nehu-wifi-auto-login&theme=tokyonight&hide_border=true" alt="NEHU Wi-Fi Auto Login" />
   </a>
 </div>
 
 ---
 
-## 💻 My Development Environment
+## 💻 My Development Environment  
 
 <div align="center">
   <a href="https://raw.githubusercontent.com/chitti-a7r4/website/refs/heads/main/pookie.jpg">
@@ -91,7 +99,7 @@
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect!  
 
 <div align="center">
   
