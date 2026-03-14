@@ -16,16 +16,16 @@
 
 ## 🚀 About Me
 
-> **From circuits to code** - An Electronics student who discovered a passion for software development through endless curiosity and hands-on exploration.
+> **From circuits to code** - I'm a nobody who wants to remain nobody yet make something our from my Love.
 
 - 💻 **First sparks:** Got my first laptop at 8–9 years old, spent childhood exploring computers and even trying to hack neighbor’s Wi-Fi (internet was super expensive back then 😅).  
 - 🛜 **Adventures:** Roamed town with my **HP Notebook** and **LYF Wind**, searching for open/WPS-enabled networks.  
-- 🎒 **Now:** Blessed to have everything I once wished for, still exploring many tech fields.  
-- 🔭 **Currently building:** A **Mini Baymax project** (AI + robotics) and a **job platform app** with focus on UX/UI.  
-- 🌱 **Learning:** Advanced Flutter development, cross-platform architectures, and system-level understanding from my **ECE background**.  
+- 🎒 **Now:** Blessed to have everything I once wished for (High Speed Internet, A good laptop, A good mobile...and every other thing in life.  
+- 🔭 **Currently building:** A **Mini Baymax project** (AI + robotics) and a **Whatsapp CRM**.  
+- 🌱 **Learning:** Advanced Flutter development,G cross-platform architectures, and system-level understanding from my **ECE background**.  
 - 💡 **Philosophy:** Self-taught through curiosity, online resources, and experimentation.  
-- 🎯 **Goal:** Bridge the gap between **hardware** and **software** innovation.  
-- ⚡ **Fun fact:** My electronics knowledge helps me optimize software in unique ways!  
+- 🎯 **Goal:** Don't have any , I may not be the best, but my motto is to bring tech to my sorrounded ones.  
+- ⚡ **Fact:** I prefer to work alone
 
 ---
 
