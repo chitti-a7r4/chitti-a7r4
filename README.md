@@ -22,7 +22,7 @@
 - 🛜 **Adventures:** Roamed town with my **HP Notebook** and **LYF Wind**, searching for open/WPS-enabled networks.  
 - 🎒 **Now:** Blessed to have everything I once wished for (High Speed Internet, A good laptop, A good mobile...and every other thing in life.  
 - 🔭 **Currently building:** A **Mini Baymax project** (AI + robotics) and a **Whatsapp CRM**.  
-- 🌱 **Learning:** Advanced Flutter development,G cross-platform architectures, and system-level understanding from my **ECE background**.  
+- 🌱 **Learning:** Advanced Flutter development,AI Development, Gem5 Simulation, and system-level understanding from my **ECE background**.  
 - 💡 **Philosophy:** Self-taught through curiosity, online resources, and experimentation.  
 - 🎯 **Goal:** Don't have any , I may not be the best, but my motto is to bring tech to my sorrounded ones.  
 - ⚡ **Fact:** I prefer to work alone
