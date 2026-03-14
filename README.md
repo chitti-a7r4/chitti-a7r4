@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-> **From circuits to code** - I'm a nobody who wants to remain nobody yet make something our from my Love.
+> **From circuits to code** - I'm a nobody who wants to remain nobody yet make something out of my Love for electronics.
 
 - 💻 **First sparks:** Got my first laptop at 8–9 years old, spent childhood exploring computers and even trying to hack neighbor’s Wi-Fi (internet was super expensive back then 😅).  
 - 🛜 **Adventures:** Roamed town with my **HP Notebook** and **LYF Wind**, searching for open/WPS-enabled networks.  
