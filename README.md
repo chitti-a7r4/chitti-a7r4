@@ -16,17 +16,7 @@
 
 ## 🚀 About Me
 
-> **Me** - I'm a nobody who wants to remain nobody yet make something out of my Love for electronics.
-
-- 💻 **First sparks:** Got my first laptop at 8–9 years old, spent childhood exploring computers and even trying to hack neighbor’s Wi-Fi (internet was super expensive back then 😅).  
-- 🛜 **Adventures:** Roamed town with my **HP Notebook** and **LYF Wind**, searching for open/WPS-enabled networks.  
-- 🎒 **Now:** Blessed to have everything I once wished for (High Speed Internet, A good laptop, A good mobile...and every other thing in life.  
-- 🔭 **Currently building:** A **Mini Baymax project** (AI + robotics) and a **Whatsapp CRM**.  
-- 🌱 **Learning:** Advanced Flutter development,AI Development, Gem5 Simulation, and system-level understanding from my **ECE background**.  
-- 💡 **Philosophy:** Self-taught through curiosity, online resources, and experimentation.  
-- 🎯 **Goal:** Don't have any , I may not be the best, but my motto is to bring tech to my sorrounded ones.  
-- ⚡ **Fact:** I prefer to work alone
-
+> otaku , who prefers to work alone
 ---
 
 ## 🛠️ Tech Stack & Tools
