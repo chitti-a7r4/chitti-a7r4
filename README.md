@@ -132,7 +132,7 @@ I built My NEHU to centralize campus notices, academic updates, and emergency re
     <td width="50%" valign="top">
       <h4>Bharat E-Wallet</h4>
       <code>Flutter</code> <code>Node.js</code> <code>Supabase</code> <code>Razorpay</code> <code>FCM</code><br/>
-      <p>I’m building a payment system for students who don’t carry phones. A vendor scans the student’s code, and parents can follow payments in a separate app.</p>
+      <p>I’m building a payment system for students who don’t carry phones. A vendor scans the student’s ID card for payments, and parents can follow payments in a separate app.</p>
     </td>
   </tr>
   <tr>
@@ -151,7 +151,7 @@ I built My NEHU to centralize campus notices, academic updates, and emergency re
     <td colspan="2" valign="top">
       <h4>Campus and personal projects</h4>
       <code>Flutter</code> <code>Kotlin</code> <code>Firebase</code> <code>Cloudflare</code><br/>
-      <p><a href="https://mynehu.in">My NEHU</a> had 250+ users on launch day for campus notices, lost &amp; found, and emergency SOS. <a href="https://wifi.chitti.org">NEHU Wi-Fi Auto Login</a> handles campus sign-in for 340+ active users. <a href="https://github.com/chitti-a7r4/lyrixlate">Lyrixlate</a> shows translated lyrics across 15+ music apps. <a href="https://gifty.page">Gifty</a> is an anonymous gifting site.</p>
+      <p><a href="https://mynehu.in">My NEHU</a> had 250+ users on launch day for campus notices, lost &amp; found, and emergency SOS. <a href="https://wifi.chitti.org">NEHU Wi-Fi Auto Login</a> handles campus wifi sign-in for 340+ active users. <a href="https://github.com/chitti-a7r4/lyrixlate">Lyrixlate</a> shows translated lyrics across 15+ music apps. <a href="https://gifty.page">Gifty</a> is an anonymous gifting site.</p>
     </td>
   </tr>
 </table>
@@ -181,7 +181,6 @@ I built My NEHU to centralize campus notices, academic updates, and emergency re
 - 🥈 **Appreciation Prize (7th Place / 140+ Teams)** — *Anveshana North East Level Finals (Bharat E-Wallet)*
 - 👑 **CEO & Founder** — *Jala Venkat Technologies (Leading end-to-end client software, AI & cyber solutions)*
 - 📱 **AppDev Expert & Core Committee** — *Google Developer Groups (GDG) On Campus NEHU*
-- 📜 **ISO 9001:2015 Internal Auditor Certified** — *Quality Asia Certifications*
 - 🛡️ **Cybersecurity Virtual Internship** — *CDAC & CyberGyan*
 
 ---
